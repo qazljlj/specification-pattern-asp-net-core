@@ -1,4 +1,4 @@
-# 规范模式-增强通用存储库模式
+# 规约模式-增强通用存储库模式
 # Specification Pattern in ASP.NET Core - Enhancing Generic Repository Pattern
 
 In this article, we will talk about implementing Specification Pattern in ASP.NET Core applications and how it can enhance the already existing Generic Repository Patterns. We will be building from scratch, an ASP.NET Core WebAPI with Generic Repository Pattern, Entity Framework Core and finally implement the Specification Design Pattern. 
